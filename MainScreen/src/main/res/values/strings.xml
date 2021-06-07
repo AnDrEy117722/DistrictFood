@@ -1,0 +1,53 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">DistrictFood</string>
+
+    <string name="title_bookmarks">Bookmarks</string>
+    <string name="title_main_screen">Main</string>
+    <string name="title_map">Map</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_feedbacks">Feedbacks</string>
+
+    <string name="search">Search</string>
+    <string name="search_parameters">Search\'s parameters</string>
+    <string name="location">Location</string>
+    <string name="tag">Tag</string>
+    <string name="price">Price</string>
+    <string name="score">Score</string>
+    <string name="with_itself">With itself</string>
+    <string name="fast_food">Fast food</string>
+    <string name="discount">Sale</string>
+    <string name="search_within">Search within</string>
+    <string name="meter">m</string>
+    <string name="middle_receipt">Middle receipt:</string>
+    <string name="rubble">₽</string>
+    <string name="clear_filter">Clear Filter</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="internet_connection">No internet connection available</string>
+    <string name="error_text">Error loading. Checking internet\'s connecting \n and reply attempt</string>
+    <string name="reply_attempt">Reply attempt</string>
+    <string name="not_bookmarks">You are haven\'t saved restaurants</string>
+
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="permission_rationale_location_from_filter">Without your location, you won\'t be able to determine the distance to restaurants</string>
+    <string name="permission_rationale_location_from_map">The nearest restaurants will not be shown without access of your location</string>
+    <string name="feedback">To leave a feedback</string>
+    <string name="feedbacks">Feedbacks</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="google_sign_in">sign in with google</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="changePassword">Change password</string>
+
+    <string name="score_fragment_tab">Rate a restaurant</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="Middle_Receipt_Text">Middle receipt:  </string>
+    <string name="no_feedbacks">There are no reviews here yet</string>
+    <string name="go_route">Get directions to </string>
+    <string name="distance">Distance: </string>
+    <string name="distanceRouteRealTime">To the end of the route:</string>
+    <string name="show_full">Show full…</string>
+
+</resources>
